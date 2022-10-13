@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [-](-)
 
-- 📫 How to reach me **bison17@email.cz**
+- 📫 How to reach me **jakub.bisko@student.spsmb.cz**
 
 - ⚡ Fun fact **-**
 
