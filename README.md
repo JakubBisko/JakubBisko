@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">Student SPSMB</h3>
-<img src="src" alt="alt"/>
+<img src="giphy.webp" alt="alt"/>
 - 🔭 I’m currently working on [-](-)
 
 - 📫 How to reach me **jakub.bisko@student.spsmb.cz**
